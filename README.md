@@ -23,3 +23,8 @@ SupportSolution - приложение для учёта и обработки �
 ## Сборка проекта
 ```bash
 dotnet build SupportSolution.sln
+
+
+## Проверка  качества
+Проект собирается командой `dotnet build SupportSolution.sln`
+Модульные тесты запускаются командой `dotnet test SupportSolution.sln`
